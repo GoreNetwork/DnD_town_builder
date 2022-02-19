@@ -1,14 +1,13 @@
 names:
   first:
-    - Her Holy
-    - The Holy
-    - The Sacred
-    - The Lovely
+    - The Magic 
+    - The Wounderous
+    - The Astounding
   second:
-    - Magisty's
-    - House
-    - House of Healing
-    - House of God
+    - Lamp
+    - Amulet
+    - Staff
+    - Scroll
 services:
   Spell Scroll Level 0:
     - 140

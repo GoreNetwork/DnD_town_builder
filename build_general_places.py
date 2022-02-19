@@ -39,3 +39,4 @@ def build_location(location_type, location_data):
 pprint (build_location('inn', location_data))
 pprint (build_location('temple', location_data))
 pprint (build_location('wizard_services', location_data))
+pprint (build_location('bakery', location_data))
