@@ -20,7 +20,7 @@ for store_type in store_types:
     tmp_name_data = read_in_yaml(file_name)
     store_data[store_type]=tmp_name_data
 
-def buid_name(individual_store_data):
+def build_name(individual_store_data):
     # pprint (individual_store_data)
     first_name = random.choice(individual_store_data['names']['first'])
     second_name = random.choice(individual_store_data['names']['second'])
@@ -30,7 +30,7 @@ def buid_name(individual_store_data):
 
 def build_store(store_type, store_data, rare_item_count):
     tmp_store_data={}
-    tmp_store_data['name']=buid_name(store_data[store_type])
+    tmp_store_data['name']=build_name(store_data[store_type])
     tmp_store_data['type']=store_type
     tmp_store_data['common']= store_data[store_type]['common']
     rare_items = {}
@@ -46,8 +46,8 @@ def build_store(store_type, store_data, rare_item_count):
 
 
 
-pprint (build_store('combat_store', store_data, 5))
-print ('\n\n\n\n')
-pprint (build_store('general_store', store_data, 5))
-print ('\n\n\n\n')
-pprint (build_store('magic_store', store_data, 5))
+# pprint (build_store('combat_store', store_data, 5))
+# print ('\n\n\n\n')
+# pprint (build_store('general_store', store_data, 5))
+# print ('\n\n\n\n')
+# pprint (build_store('magic_store', store_data, 5))
