@@ -1,3 +1,18 @@
+names:
+  first:
+    - Daily
+    - The Prized
+    - The bottemless
+    - Joe's
+    - Sweet
+    - Welcoming
+  second:
+    - Goods
+    - Gear
+    - Hoe
+    - Medow
+    - Aid
+
 common:
   Abacus:  2 gp
   Acid (vial):  25 gp
@@ -79,7 +94,6 @@ common:
   Signal whistle:  5 cp
   Signe! ring:  5 gp
   Soap:  2 cp
-  Spellbook:  50 gp
   Spikes, iron (10):  1 gp
   Spyglass:  1000 gp
   Tent, two-person:  2 gp
@@ -88,7 +102,6 @@ common:
   Vial:  1 gp
   Waterskin:  2 sp
   Whetstone:  1 cp
-  Alchemist's supplies:  50 gp
   Brewer's supplies:  20 gp
   Calligrapher's supplies:  10 gp
   Painter's supplies:  10 gp
@@ -102,12 +115,9 @@ common:
   Carpenter's tools:  8 gp
   Potter's tools:  10 gp
   Smith's tools:  20 gp
-  Tinker's tools:  50 gp
   Weaver's tools:  1 gp
   Navigator's tools:  25 gp
   Woodcarver's tools:  1 gp
-  Thieves' tools:  25 gp
-  Poisoner's kit:  50 gp
   Herbalism kit:  5 gp
   Disguise kit:  25 gp
   Forgery kit:  15 gp
@@ -116,7 +126,6 @@ common:
   Dragonchess set:  1 gp
   Playing card set:  5 gp
   Three-Dragon Ante set:  1 gp
-  Musical instrument:  
   Bagpipe:  30 gp
   Drum:  6 gp
   Dulcimer:  25 gp
@@ -127,3 +136,12 @@ common:
   Pan Flute:  12 gp
   Shawm:  2 gp
   Viol:  30 gp  
+
+rare:
+  Viol:  30 gp 
+  Alchemist's supplies:  50 gp  
+  Tinker's tools:  50 gp
+  Spellbook:  50 gp
+  Bagpipe:  30 gp
+  Thieves' tools:  25 gp
+  Poisoner's kit:  50 gp

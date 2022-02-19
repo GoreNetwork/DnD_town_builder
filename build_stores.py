@@ -45,5 +45,9 @@ def build_store(store_type, store_data, rare_item_count):
 
 
 
-# pprint (build_store('combat_store', store_data, 5))
+
 pprint (build_store('combat_store', store_data, 5))
+print ('\n\n\n\n')
+pprint (build_store('general_store', store_data, 5))
+print ('\n\n\n\n')
+pprint (build_store('magic_store', store_data, 5))

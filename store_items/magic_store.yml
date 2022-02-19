@@ -1,3 +1,20 @@
+names:
+  first:
+    - The Want's
+    - The Tenth
+    - The Amazing
+    - Merland's
+    - The Wonderous
+    - The Dark
+    - The Breaking
+  second:
+    - Sword
+    - Amulet
+    - Sphere
+    - Ash
+    - Ring
+    - Flame
+
 rare:
   Helm of Comprehend Languages: 500 gp
   Driftglobe: 300 gp
@@ -86,3 +103,4 @@ common:
   Hammer: 1 gp
   Hammer, Sledge: 2 gp
   Healer's kit: 5 gp
+  Spellbook:  50 gp
