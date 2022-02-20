@@ -36,7 +36,7 @@ def build_location(location_type, location_data):
         tmp_location['services'][service]= price
     return tmp_location
 
-pprint (build_location('inn', location_data))
-pprint (build_location('temple', location_data))
-pprint (build_location('wizard_services', location_data))
-pprint (build_location('bakery', location_data))
+# pprint (build_location('inn', location_data))
+# pprint (build_location('temple', location_data))
+# pprint (build_location('wizard_services', location_data))
+# pprint (build_location('bakery', location_data))

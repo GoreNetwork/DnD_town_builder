@@ -6,6 +6,14 @@ store_worker:
   - owner's kid
   - owner
   - owner's son/daugher in-law
+extra_chars:
+  - street urchan
+  - service worker
+  - street kid
+  - goverment offical
+  - bumb
+  - guild_worker
+
 flaws:
   - insecure about their height
   - I judge others harshly, and myself even more severely.
